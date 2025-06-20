@@ -6,7 +6,7 @@ created_at: "2025-06-17"
 ---
 # Journal
 
-Hours: 17h
+Hours: 21h
 
 # A while back, right before highway announced to June 16
 Hours: 3h
@@ -131,13 +131,17 @@ PCB design!
 ![PCB](https://hc-cdn.hel1.your-objectstorage.com/s/v3/96e08dfd8bd8cfe5c2162619ebf2a184466401bd_screenshot_2025-06-19_225025.png)
 
 # June 19
-hours: 3h
+hours: 4h
 
 BOM and journal
 https://docs.google.com/spreadsheets/d/1fKyxs4xyiDP1QXcRQpTOFPQCPsDcIa7fzhB4tR6pHxY/edit?gid=1552496342#gid=1552496342
 
 Side note: why does LCSC not stock Molex KK-254 connectors? ts pmo
 Side note 2: Why are molex product nameing so bad? We have two manufacturer product numbers, two series names, and like no consistency.
+
+Polish and added usb c connector because I forgot lol.
+
+![sadas](https://hc-cdn.hel1.your-objectstorage.com/s/v3/15f3d853c54a714a110bf89fbca56f7e87bffbcb_image.png)
 
 
 Thanks to Larry Kenny (The guy who made the original controller) for making the documentation available and awnswering my questions.
