@@ -6,7 +6,7 @@ created_at: "2025-06-17"
 ---
 # Journal
 
-Hours: 14h
+Hours: 17h
 
 # A while back, right before highway announced to June 16
 Hours: 3h
@@ -112,7 +112,7 @@ Schematic!
 ![Schematic](https://hc-cdn.hel1.your-objectstorage.com/s/v3/663f6ed5d0925f178e119bd20d2991c114a9e5e1_image.png)
 
 # June 18-19
-hours: 3h
+hours: 6h
 PCB design!
 
 ![PCB](https://hc-cdn.hel1.your-objectstorage.com/s/v3/96e08dfd8bd8cfe5c2162619ebf2a184466401bd_screenshot_2025-06-19_225025.png)
