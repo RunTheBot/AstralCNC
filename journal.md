@@ -143,5 +143,9 @@ Polish and added usb c connector because I forgot lol.
 
 ![sadas](https://hc-cdn.hel1.your-objectstorage.com/s/v3/15f3d853c54a714a110bf89fbca56f7e87bffbcb_image.png)
 
+# June 20
+Hours: 1h
+Fixed up some silkscreen issues, added some more silkscreen text, and exposed an IO pin I forgot to expose.
+
 
 Thanks to Larry Kenny (The guy who made the original controller) for making the documentation available and awnswering my questions.
