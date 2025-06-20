@@ -105,6 +105,19 @@ while True:
 I then tested the spindle and it is just a simple solid state relay running off 5v, so I connected it to the Pico and it worked.
 
 # June 17
+Hours: 3h
+
+I started by exploring software options. Here are the options I found:
+
+FluidNC: A very good option, for ESP32 but I didn't want to use it because people (ChatGPT) did not recommend it for CNCs.
+Remora: Very new and modern but small community, so I didn't want to use it.
+GRBL-HAL: Best ive seen, a bit dated but very good documentation and a large community. I decided to use it.
+
+I continued with a Pico as the docs recommended it, and I started by making a simple schematic of the board.
+
+I also looked at linuxcnc, but it added a bit too much complexity for my use case, and I didn't want add a full computer to the CNC.
+
+# June 17
 
 Hours: 3h
 
