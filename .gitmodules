@@ -1,0 +1,3 @@
+[submodule "AstralCNC-grblHAL"]
+	path = AstralCNC-grblHAL
+	url = https://github.com/RunTheBot/AstralCNC-grblHAL
